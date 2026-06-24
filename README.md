@@ -14,7 +14,9 @@ HateXplain (Mathew et al., AAAI 2021) - 20,148 posts from Twitter and Gab with h
 - Level 3: DistilBERT fine-tuned(66% accuracy)
 
 ## Main Finding
-The model relies on a single keyword for its predictions. Humans consider 28 words of context. Right answer, incomplete reasoning.
+The model relies on a single keyword for its predictions.
+Humans consider 28 words of context.
+Right answer, incomplete reasoning.
 
 ## Author
 Elif Gafar | MSc Human-Centered AI
